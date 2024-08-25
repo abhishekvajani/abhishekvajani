@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abhishek Vajani 👋
 
-<!--
-**abhishekvajani/abhishekvajani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Software Developer from India. 
+- 🔭 I’m currently working on **AI Travel itinerary generator using PHP,MySQL and Javascript** 
+- 🌱 I’m currently learning: PHP,PowerBI and Advanced Javascript
+- 📫 How to reach me: abhi.vajani@yahoo.com
 
-Here are some ideas to get you started:
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out through any of the platforms below:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn]: https://www.linkedin.com/in/abhishek-vajani/
+
+Thanks for visiting my profile! 😊
