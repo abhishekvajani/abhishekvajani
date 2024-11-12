@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a Software Developer from India. 
-- 🔭 I’m currently working on **AI Travel itinerary generator using PHP,MySQL and Javascript** 
+- 🔭I’m currently working on LLM generated Trip Planner Web Application with Weather based checklist with Tech stack of Reactjs + Vite , Firebase and Typescript 
 - 🌱 I’m currently learning: PHP,PowerBI and Advanced Javascript
 - 📫 How to reach me: abhi.vajani@yahoo.com
 
